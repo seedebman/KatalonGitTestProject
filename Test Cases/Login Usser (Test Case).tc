@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing APi functionality for User Login</description>
+   <name>Login Usser (Test Case)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>186e15ab-d921-4487-aa08-2ce1d86bb16a</testCaseGuid>
+</TestCaseEntity>
