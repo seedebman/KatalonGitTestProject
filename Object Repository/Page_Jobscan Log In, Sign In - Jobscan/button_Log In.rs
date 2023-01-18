@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log In</name>
+   <tag></tag>
+   <elementGuidId>3d55c15c-a588-48ca-9a7f-8756e4df8ef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/div/div/div[2]/div/form/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>338a5c9a-ef2d-4fba-8207-74a87fe0c461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-trackuserevent</name>
+      <type>Main</type>
+      <value>track</value>
+      <webElementGuid>66cadc6b-87b0-42b7-825f-83b34a9448b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative duration-75 transform-gpu AppButton active:scale-95 medium solid primary w-full mt-5 large</value>
+      <webElementGuid>aa63d469-0f58-4537-b361-cb0720c9d556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>logIn</value>
+      <webElementGuid>5e1d2796-fdbb-42a2-b6db-6c2d87258b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Log In </value>
+      <webElementGuid>40c14341-a07c-4843-aa43-7d9cff31dc14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;flex items-center justify-center flex-1 p-1&quot;]/div[@class=&quot;flex flex-col items-center justify-center w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;text-center box&quot;]/form[@class=&quot;w-full&quot;]/button[@class=&quot;relative duration-75 transform-gpu AppButton active:scale-95 medium solid primary w-full mt-5 large&quot;]</value>
+      <webElementGuid>7a58d573-a7d5-4f05-b263-f1b4c57efbe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/div/div/div[2]/div/form/button</value>
+      <webElementGuid>166ecacf-b2cd-4463-8d2c-c7a89220ece7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::button[1]</value>
+      <webElementGuid>b3ad1090-3257-4999-89a5-4b90e8b5e5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>d511cadc-7ff3-4dd6-ac2e-c453f9628763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't have an account?')])[1]/preceding::button[1]</value>
+      <webElementGuid>44176838-cbc0-465e-8bac-b1340f29934e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/form/button</value>
+      <webElementGuid>8b673ed4-8937-47ea-a2e8-c326c04ea92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Log In ' or . = ' Log In ')]</value>
+      <webElementGuid>deccc611-f90f-4630-aa21-38b67b9c1cdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
